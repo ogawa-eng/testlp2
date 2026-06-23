@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[97367,["/testlp_2/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
-3:I[97367,["/testlp_2/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+2:I[97367,["/testlp2/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+3:I[97367,["/testlp2/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/testlp_2/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
-0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lounge Range 福島 | 完全個室の会員制インドアゴルフ場"}],["$","meta","1",{"name":"description","content":"24時間365日いつでも利用可能な完全プライベートゴルフラウンジ。業界最高級シミュレーターSDR導入。無料体験実施中。"}],["$","link","2",{"rel":"icon","href":"/testlp_2/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gm5Zdu2UucWAGDTvTKqVh"}
+5:I[27201,["/testlp2/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lounge Range 福島 | 完全個室の会員制インドアゴルフ場"}],["$","meta","1",{"name":"description","content":"24時間365日いつでも利用可能な完全プライベートゴルフラウンジ。業界最高級シミュレーターSDR導入。無料体験実施中。"}],["$","link","2",{"rel":"icon","href":"/testlp2/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gm5Zdu2UucWAGDTvTKqVh"}
